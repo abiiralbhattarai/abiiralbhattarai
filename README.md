@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Abiiral Bhattarai
-- 👀 I’m interested in Blockhain 
-- 🌱 I’m currently working in web3 
+- 👋 Hi, I’m Abiiral Bhattarai 
+- 🌱 I’m currently into Smart Contract Development and Smart Contract Auditing
 - 📫 Reach me at :[Linked In](https://www.linkedin.com/in/abiiralbhattarai/)
 
 <!---
