@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abiiral Bhattarai 
-- 💻  I’m currently into Smart Contract Development and Smart Contract Auditing
+- 💻  I’m currently into Smart Contract Development
 - 📝 Blog : [Blockchains Mastery](https://blockchainsmastery.com/)
 - 📫 Reach me at :[Linked In](https://www.linkedin.com/in/abiiralbhattarai/)
 
