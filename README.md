@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abiiral Bhattarai 
-- 💻  I’m currently into Smart Contract Development
+- 💻  I’m currently into Blockchain Development
 - 📝 Blog : [Blockchains Mastery](https://blockchainsmastery.com/)
 - 📫 Reach me at :[Linked In](https://www.linkedin.com/in/abiiralbhattarai/)
 
