@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abiiral Bhattarai 
-- 💻  I’m currently into Blockchain Development
+- 💻 I am an experienced Blockchain Engineer with over 5 years of experience designing and building production-grade smart contracts and blockchain infrastructure across EVM and SVM ecosystems.        My work focuses on smart contract architecture, DeFi, Layer 2 systems, omnichain and cross-chain design, and MEV-aware, security-focused smart contract development.
 - 📫 Reach me at :[Linked In](https://www.linkedin.com/in/abiiralbhattarai/)
 
 <!---
