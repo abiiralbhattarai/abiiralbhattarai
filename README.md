@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Abiiral Bhattarai 
-- 💻 I am an experienced Blockchain Engineer with over 5 years of experience designing and building production-grade smart contracts and blockchain infrastructure across EVM and SVM ecosystems.        My work focuses on smart contract architecture, DeFi, Layer 2 systems, omnichain and cross-chain design, and MEV-aware, security-focused smart contract development.
-- 📫 Reach me at :[Linked In](https://www.linkedin.com/in/abiiralbhattarai/)
-
-<!---
-abiiralbhattarai/abiiralbhattarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Abiiral Bhattarai**
+- 💻 **Smart Contract Engineer** specializing in high-performance execution across Ethereum and Solana. I architect secure smart contracts and settlement layers that enable seamless interoperability and intent-based execution. My technical focus includes ZK-verified state transitions, off-chain pre-validation infrastructure, and the development of gas-efficient, MEV-resistant protocols.
+- 🚀 **Open for Opportunities**
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/abiiralbhattarai/)
